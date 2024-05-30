@@ -27,7 +27,7 @@ export default {
   },  {
     icon: 'icon-shouji',
     title: 'Frame',
-    msg: ['vue frame','UI frame、express frame、mysql',]
+    msg: ['vue frame','UI framework、express frame、mysql',]
   }],
   // page4
   page4: {
@@ -36,7 +36,7 @@ export default {
       date: '2024/9-Now',
       desc: {
         title: 'University of Waterloo, CA',
-        list: ['Making uniapps','Making Website with HTML,CSS,Javascript','Vue Related Projects']
+        list: ['Making uniapps','Making Website with HTML,CSS,Javascript','React Framework Related Projects']
       }
     }, {
       date: '2021/9——2024/6',
@@ -47,7 +47,7 @@ export default {
     }],
     // my skills
     singlelist: [{
-      title: 'bootsrap',
+      title: 'bootstrap',
       text: 'Learning'
     }, {
       title: 'Element-ui',
@@ -67,7 +67,7 @@ export default {
       title: 'JS、JQ',
       value: '90%'
     }, {
-      title: 'Vue',
+      title: 'React',
       value: '90%'
     }, {
       title: 'NodeJs',
