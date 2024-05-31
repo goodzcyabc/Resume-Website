@@ -27,7 +27,7 @@ export default {
   },  {
     icon: 'icon-shouji',
     title: 'Frame',
-    msg: ['vue frame','UI framework、express frame、mysql',]
+    msg: ['React Frame','UI framework、express frame、mysql',]
   }],
   // page4
   page4: {
